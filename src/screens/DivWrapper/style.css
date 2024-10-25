@@ -1,0 +1,135 @@
+.div-wrapper {
+    background-color: #00000080;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .div-wrapper .connect-a-wallet-wrapper {
+    background-color: #00000080;
+    height: 422px;
+    overflow: auto; /* Changed from hidden to auto for better visibility */
+    width: 1024px;
+  }
+  
+  .div-wrapper .connect-a-wallet-3 {
+    background-color: #ffffff;
+    border-radius: 12px;
+    height: 422px;
+    left: 0; /* Adjusted from 13638px */
+    overflow: hidden;
+    position: relative;
+    top: 0; /* Adjusted from -25423px */
+  }
+  
+  .div-wrapper .border-2 {
+    height: 422px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .div-wrapper .left-3 {
+    height: auto; /* Adjusted height */
+    width: 100%; /* Adjusted width to fit container */
+    object-fit: contain; /* Changed to contain to ensure full image visibility */
+    left: 0; /* Adjusted from -13638px */
+    top: 0; /* Adjusted from 25423px */
+    position: absolute;
+  }
+  
+  .div-wrapper .head-3 {
+    height: 41px;
+    left: 32px;
+    position: absolute;
+    top: 9px;
+    width: 974px;
+  }
+  
+  .div-wrapper .text-wrapper-45 {
+    color: #717a8c;
+    font-family: "Montserrat", Helvetica;
+    font-size: 21.7px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 21.7px;
+    position: absolute;
+    top: 10px;
+    width: 209px;
+  }
+  
+  .div-wrapper .u-plus-9 {
+    height: 41px !important;
+    left: 928px !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 44px !important;
+  }
+  
+  .div-wrapper .frame-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 18.94px;
+    left: 32px;
+    position: absolute;
+    top: 73px;
+    width: 547px;
+  }
+  
+  .div-wrapper .div-9 {
+    background-color: #ffffff;
+    border: 0.24px solid;
+    border-color: #000000;
+    border-radius: 9.47px;
+    height: 66px;
+    margin-right: 0; /* Adjusted margin-right */
+    position: relative;
+    width: auto; /* Changed to auto for better responsiveness */
+  }
+  
+  .div-wrapper .img-3 {
+    height: 38px;
+    left: 28px;
+    position: absolute;
+    top: 14px;
+    width: 38px;
+  }
+  
+  .div-wrapper .text-wrapper-46 {
+    color: #717a8c;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18.9px;
+    font-weight: 500;
+    left: 92px;
+    letter-spacing: 0;
+    line-height: 18.9px;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .u-angle-down-3 {
+    height: 28px;
+    left: 936px;
+    position: absolute;
+    top: 19px;
+    width: 28px;
+  }
+  
+  .div-wrapper .text-wrapper-47 {
+    color: #717a8c;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18.9px;
+    font-weight: 500;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 18.9px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }

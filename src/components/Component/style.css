@@ -1,0 +1,72 @@
+.component {
+  border-radius: 99px;
+  height: 29px;
+  position: relative;
+  width: 338px;
+}
+
+.component .introducing-aave-s {
+  color: #221d1d;
+  font-family: var(--aave-com-inter-medium-12-font-family);
+  font-size: var(--aave-com-inter-medium-12-font-size);
+  font-style: var(--aave-com-inter-medium-12-font-style);
+  font-weight: var(--aave-com-inter-medium-12-font-weight);
+  height: 13px;
+  left: 12px;
+  letter-spacing: var(--aave-com-inter-medium-12-letter-spacing);
+  line-height: var(--aave-com-inter-medium-12-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 215px;
+}
+
+.component .container {
+  height: 13px;
+  left: 234px;
+  position: absolute;
+  top: 8px;
+  width: 91px;
+}
+
+.component .background {
+  background-color: var(--aavecomsilver);
+  border-radius: 2px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.component .text-wrapper {
+  color: var(--aavecomscorpion);
+  font-family: var(--aave-com-inter-regular-12-font-family);
+  font-size: var(--aave-com-inter-regular-12-font-size);
+  font-style: var(--aave-com-inter-regular-12-font-style);
+  font-weight: var(--aave-com-inter-regular-12-font-weight);
+  height: 13px;
+  left: 12px;
+  letter-spacing: var(--aave-com-inter-regular-12-letter-spacing);
+  line-height: var(--aave-com-inter-regular-12-line-height);
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.component .component-1-449 {
+  height: 10px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 1px !important;
+  width: 11px !important;
+}
+
+.component.hover-true {
+  background-color: #f1f1ef;
+}
+
+.component.hover-false {
+  background-color: var(--aavecomwild-sand);
+}

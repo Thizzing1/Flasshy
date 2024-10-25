@@ -1,0 +1,20 @@
+.component-7 {
+  align-items: flex-start;
+  position: relative;
+}
+
+.component-7 .text-5 {
+  color: #8f8d8d;
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.component-7:hover .text-5 {
+  color: #221d1d;
+}

@@ -1,0 +1,33 @@
+.component-8 {
+  height: 12px;
+}
+
+.component-8 .overlay-gradient {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+}
+
+.component-8.hover-5-true {
+  width: 374px;
+}
+
+.component-8.variant-2-two {
+  opacity: 0.2;
+}
+
+.component-8.variant-2-one {
+  opacity: 0.5;
+  width: 374px;
+}
+
+.component-8.variant-2-three.hover-5-false {
+  opacity: 0.1;
+  width: 310px;
+}
+
+.component-8.variant-2-two.hover-5-false {
+  width: 342px;
+}

@@ -1,0 +1,77 @@
+.button-component {
+  align-items: flex-start;
+  position: relative;
+}
+
+.button-component .text-6 {
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-component .variant-52-3 {
+  height: 16px !important;
+  left: 84px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 16px !important;
+}
+
+.button-component.hover-6-true {
+  display: inline-flex;
+}
+
+.button-component.variant-3-two {
+  border-radius: 50px;
+  flex-direction: column;
+  height: 33px;
+}
+
+.button-component.variant-3-one {
+  display: inline-flex;
+}
+
+.button-component.hover-6-false {
+  flex-direction: column;
+}
+
+.button-component.variant-3-two.hover-6-false {
+  background-color: #201c1c;
+  display: flex;
+  padding: 8.15px 16px 9.83px;
+  width: 102px;
+}
+
+.button-component.hover-6-true.variant-3-two {
+  background-color: var(--aavecomthunder);
+  opacity: 0.8;
+  padding: 8.15px 32px 9.83px 16px;
+}
+
+.button-component.variant-3-two .text-6 {
+  color: var(--aavecomwhite);
+  font-family: var(--aave-com-inter-medium-14-font-family);
+  font-size: var(--aave-com-inter-medium-14-font-size);
+  font-style: var(--aave-com-inter-medium-14-font-style);
+  font-weight: var(--aave-com-inter-medium-14-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-14-letter-spacing);
+  line-height: var(--aave-com-inter-medium-14-line-height);
+}
+
+.button-component.variant-3-one .text-6 {
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+}
+
+.button-component.hover-6-true.variant-3-one .text-6 {
+  color: #221d1d;
+}
+
+.button-component.variant-3-one.hover-6-false .text-6 {
+  color: #8f8d8d;
+}

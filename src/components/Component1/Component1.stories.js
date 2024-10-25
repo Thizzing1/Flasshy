@@ -1,0 +1,88 @@
+import { Component1 } from ".";
+
+export default {
+  title: "Components/Component1",
+  component: Component1,
+  argTypes: {
+    variant: {
+      options: [
+        "sixteen",
+        "twenty-five",
+        "thirty-nine",
+        "thirty-four",
+        "forty-seven",
+        "forty-eight",
+        "forty-two",
+        "fifty-three",
+        "fifty-two",
+        "seventeen",
+        "ten",
+        "twelve",
+        "twenty-one",
+        "fifty-four",
+        "five",
+        "eight",
+        "forty-one",
+        "forty-four",
+        "forty-six",
+        "twenty-two",
+        "twenty-seven",
+        "fifty-five",
+        "twenty-eight",
+        "twenty-three",
+        "four",
+        "eighteen",
+        "one",
+        "twenty-nine",
+        "thirteen",
+        "twenty-four",
+        "thirty",
+        "thirty-three",
+        "twenty",
+        "thirty-five",
+        "thirty-seven",
+        "forty",
+        "three",
+        "nine",
+        "fifty-seven",
+        "fifty-six",
+        "thirty-eight",
+        "fourteen",
+        "twenty-six",
+        "thirty-six",
+        "seven",
+        "forty-five",
+        "forty-nine",
+        "fifteen",
+        "two",
+        "fifty",
+        "fifty-one",
+        "thirty-two",
+        "nineteen",
+        "eleven",
+        "thirty-one",
+        "six",
+        "forty-three",
+      ],
+      control: { type: "select" },
+    },
+  },
+};
+
+export const Default = {
+  args: {
+    variant: "sixteen",
+    variantClassName: {},
+    img: "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-38-2.svg",
+    variant1:
+      "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-39-2.svg",
+    variant2:
+      "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-40-2.svg",
+    variant3:
+      "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-41-2.svg",
+    variant4:
+      "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-42-2.svg",
+    variant5:
+      "https://cdn.animaapp.com/projects/67161e9dc14435b4877bf321/releases/67161f08b1fffdcedb758241/img/variant-43-2.svg",
+  },
+};

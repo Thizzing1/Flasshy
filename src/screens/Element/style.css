@@ -1,0 +1,4744 @@
+.element {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .main-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .main-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.element .section {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-20 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  z-index: 1;
+}
+
+.element .container-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-6 {
+  background-color: #f7f6f6;
+  border-radius: 99px;
+  height: 28.59px;
+  position: relative;
+  width: 337.55px;
+}
+
+.element .introducing-aave-s {
+  color: #221d1d;
+  font-family: var(--aave-com-inter-medium-12-font-family);
+  font-size: var(--aave-com-inter-medium-12-font-size);
+  font-style: var(--aave-com-inter-medium-12-font-style);
+  font-weight: var(--aave-com-inter-medium-12-font-weight);
+  height: 13px;
+  left: 12px;
+  letter-spacing: var(--aave-com-inter-medium-12-letter-spacing);
+  line-height: var(--aave-com-inter-medium-12-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 215px;
+}
+
+.element .container-22 {
+  height: 13px;
+  left: 234px;
+  position: absolute;
+  top: 8px;
+  width: 91px;
+}
+
+.element .background-3 {
+  background-color: var(--aavecomsilver);
+  border-radius: 2px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 4px;
+}
+
+.element .text-wrapper-8 {
+  color: #636161;
+  font-family: var(--aave-com-inter-regular-12-font-family);
+  font-size: var(--aave-com-inter-regular-12-font-size);
+  font-style: var(--aave-com-inter-regular-12-font-style);
+  font-weight: var(--aave-com-inter-regular-12-font-weight);
+  height: 13px;
+  left: 12px;
+  letter-spacing: var(--aave-com-inter-regular-12-letter-spacing);
+  line-height: var(--aave-com-inter-regular-12-line-height);
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.element .component-1-355 {
+  height: 10px !important;
+  left: 80px !important;
+  position: absolute !important;
+  top: 1px !important;
+  width: 11px !important;
+}
+
+.element .access-the-full-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .access-the-full {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-weight: 500;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .aave-is-the-world-s-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 400px;
+  padding: 16px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-is-the-world-s {
+  align-self: stretch;
+  color: #636161;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 28px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .container-24 {
+  border-radius: 50px;
+  height: 35px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 148px;
+}
+
+.element .background-shadow-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--aavecomwhite);
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px 1.5px #0000000f;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  overflow: hidden;
+  padding: 9px 16px 9px 20px;
+  position: relative;
+}
+
+.element .text-2 {
+  color: #221d1d;
+  display: block;
+  font-family: var(--aave-com-inter-medium-16-font-family);
+  font-size: var(--aave-com-inter-medium-16-font-size);
+  font-style: var(--aave-com-inter-medium-16-font-style);
+  font-weight: var(--aave-com-inter-medium-16-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-16-letter-spacing);
+  line-height: var(--aave-com-inter-medium-16-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-1-356 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.element .container-25 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 23.05px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .SVG-margin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 1px;
+  position: relative;
+  width: 13px;
+}
+
+.element .component-1-392-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 13px;
+}
+
+.element .component-1-392 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  position: relative !important;
+  width: 13px !important;
+}
+
+.element .container-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .text-wrapper-9 {
+  color: #636161;
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-27 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 40px;
+}
+
+.element .container-28 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .billion-of-liquidity {
+  color: transparent;
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .span {
+  color: #636060;
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+}
+
+.element .text-wrapper-10 {
+  color: #8f8d8d;
+  font-family: var(--aave-com-inter-regular-14-font-family);
+  font-size: var(--aave-com-inter-regular-14-font-size);
+  font-style: var(--aave-com-inter-regular-14-font-style);
+  font-weight: var(--aave-com-inter-regular-14-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-14-letter-spacing);
+  line-height: var(--aave-com-inter-regular-14-line-height);
+}
+
+.element .container-29 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.element .component-1-617 {
+  height: 355.28px !important;
+  position: relative !important;
+  width: 895px !important;
+}
+
+.element .overlay-gradient-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 4px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient {
+  background-color: #ffffff1a;
+  border-radius: 2px;
+  flex: 1;
+  flex-grow: 1;
+  height: 4px;
+  max-width: 1082px;
+  position: relative;
+}
+
+.element .component-1-616 {
+  height: 438.44px !important;
+  position: relative !important;
+  width: 1082px !important;
+}
+
+.element .container-30 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 4px;
+  justify-content: center;
+  margin-top: -5.68e-14px;
+  padding: 0px 131px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-432 {
+  align-self: stretch !important;
+  height: 187.64px !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.element .container-31 {
+  align-self: stretch;
+  background-color: #ffffff1a;
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.element .section-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-32 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .heading-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-11 {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.element .container-33 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .p {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.element .SVG-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .SVG-2 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.element .component-1-433 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 199.89px !important;
+  position: relative !important;
+}
+
+.element .component-1-623 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 408.45px !important;
+  position: relative !important;
+}
+
+.element .component-1-619 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 450px !important;
+  position: relative !important;
+}
+
+.element .container-34 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 48px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .button {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .background-4 {
+  background-color: #008aff;
+  border-radius: 3px;
+  height: 3px;
+  position: relative;
+}
+
+.element .text-wrapper-12 {
+  color: #008aff;
+  font-family: var(--aave-com-semantic-button-font-family);
+  font-size: var(--aave-com-semantic-button-font-size);
+  font-style: var(--aave-com-semantic-button-font-style);
+  font-weight: var(--aave-com-semantic-button-font-weight);
+  letter-spacing: var(--aave-com-semantic-button-letter-spacing);
+  line-height: var(--aave-com-semantic-button-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .earn-interest-by {
+  position: relative;
+}
+
+.element .earn-interest-by-2 {
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.element .button-2 {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.3px;
+  padding: 0px 0px 0.69px;
+  position: relative;
+}
+
+.element .background-5 {
+  background-color: #f1f1ef;
+  border-radius: 3px;
+  height: 3px;
+  position: relative;
+  width: 104px;
+}
+
+.element .text-wrapper-13 {
+  color: #8f8d8d;
+  font-family: var(--aave-com-semantic-button-font-family);
+  font-size: var(--aave-com-semantic-button-font-size);
+  font-style: var(--aave-com-semantic-button-font-style);
+  font-weight: var(--aave-com-semantic-button-font-weight);
+  letter-spacing: var(--aave-com-semantic-button-letter-spacing);
+  line-height: var(--aave-com-semantic-button-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .horizontal-divider {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #f1f1ef;
+  height: 1px;
+  position: absolute;
+}
+
+.element .section-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-35 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .container-36 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-14 {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.80px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .aave-is-one-of-the-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.64px;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-is-one-of-the {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  line-height: 24.3px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 0px 17px;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-39 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-is-one-of-the-2 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-40 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.element .container-41 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.element .instance-node {
+  align-self: stretch !important;
+  height: 239.59px !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.element .component-8 {
+  align-self: stretch !important;
+  height: 225.11px !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.element .component-9 {
+  align-self: stretch !important;
+  height: 250px !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.element .container-42 {
+  position: relative;
+  z-index: 0;
+}
+
+.element .container-43 {
+  align-items: flex-start;
+  display: flex;
+  max-width: 102px;
+  width: 102px;
+}
+
+.element .text-wrapper-15 {
+  color: #221d1d;
+  font-family: var(--aave-com-FT-regola-neue-medium-24-font-family);
+  font-size: var(--aave-com-FT-regola-neue-medium-24-font-size);
+  font-style: var(--aave-com-FT-regola-neue-medium-24-font-style);
+  font-weight: var(--aave-com-FT-regola-neue-medium-24-font-weight);
+  letter-spacing: var(--aave-com-FT-regola-neue-medium-24-letter-spacing);
+  line-height: var(--aave-com-FT-regola-neue-medium-24-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-44 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 62px;
+}
+
+.element .text-wrapper-16 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #221d1d;
+  display: -webkit-box;
+  font-family: var(--aave-com-FT-regola-neue-medium-24-font-family);
+  font-size: var(--aave-com-FT-regola-neue-medium-24-font-size);
+  font-style: var(--aave-com-FT-regola-neue-medium-24-font-style);
+  font-weight: var(--aave-com-FT-regola-neue-medium-24-font-weight);
+  letter-spacing: var(--aave-com-FT-regola-neue-medium-24-letter-spacing);
+  line-height: var(--aave-com-FT-regola-neue-medium-24-line-height);
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .net-deposits {
+  opacity: 0.7;
+}
+
+.element .div-5 {
+  color: #221d1d;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.element .div-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.element .container-45 {
+  position: relative;
+  z-index: 0;
+}
+
+.element .container-46 {
+  align-items: flex-start;
+  display: flex;
+  max-width: 102px;
+  width: 102px;
+}
+
+.element .container-47 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 71px;
+}
+
+.element .text-wrapper-17 {
+  color: #221d1d;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 21.6px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.element .background-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.element .container-48 {
+  position: relative;
+  z-index: 0;
+}
+
+.element .container-49 {
+  align-items: flex-start;
+  display: flex;
+  max-width: 102px;
+  width: 102px;
+}
+
+.element .container-50 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 46px;
+}
+
+.element .average-stablecoin-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  opacity: 0.7;
+}
+
+.element .background-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.element .container-51 {
+  position: relative;
+  z-index: 0;
+}
+
+.element .container-52 {
+  align-items: flex-start;
+  display: flex;
+  max-width: 102px;
+  width: 102px;
+}
+
+.element .container-53 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 47px;
+}
+
+.element .container-54 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  opacity: 0.7;
+}
+
+.element .horizontal-divider-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #f1f1ef;
+  height: 1px;
+  position: absolute;
+}
+
+.element .section-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-55 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .heading-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-56 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-10 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.element .class {
+  height: 139px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 438px !important;
+}
+
+.element .class-2 {
+  height: 136px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 428px !important;
+}
+
+.element .heading-margin-2 {
+  height: 48.39px;
+  margin-top: -1.28e-13px;
+  position: relative;
+}
+
+.element .heading-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+}
+
+.element .text-wrapper-18 {
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  line-height: 32.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-57 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -1.28e-13px;
+  position: relative;
+  width: 100%;
+}
+
+.element .swap-any-ERC-even {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-1-589 {
+  height: 150px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 473px !important;
+}
+
+.element .heading-margin-3 {
+  align-self: stretch;
+  height: 48.39px;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  top: -1px;
+  width: 393px;
+}
+
+.element .container-58 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-19 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .background-11 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.element .component-1-427 {
+  height: 150px !important;
+  left: 170px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 268px !important;
+}
+
+.element .heading-margin-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 48.39px;
+  margin-top: -1.28e-13px;
+  position: relative;
+  width: 390px;
+}
+
+.element .heading-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  width: 390px;
+}
+
+.element .component-1-606 {
+  height: 150px !important;
+  left: 160px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 268px !important;
+}
+
+.element .heading-margin-5 {
+  align-self: stretch;
+  height: 48.39px;
+  margin-top: -1.28e-13px;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  top: -1px;
+  width: 348px;
+}
+
+.element .text-wrapper-20 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-1-608 {
+  height: 150px !important;
+  left: 205px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 268px !important;
+}
+
+.element .container-59 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-21 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .background-12 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.element .component-1-422 {
+  height: 201px !important;
+  left: 156px !important;
+  position: absolute !important;
+  top: -48px !important;
+  width: 402px !important;
+}
+
+.element .heading-margin-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 48.39px;
+  position: relative;
+  width: 390px;
+}
+
+.element .component-1-595 {
+  height: 201px !important;
+  left: 146px !important;
+  position: absolute !important;
+  top: -48px !important;
+  width: 402px !important;
+}
+
+.element .easily-track-the {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-1-575 {
+  height: 201px !important;
+  left: 191px !important;
+  position: absolute !important;
+  top: -48px !important;
+  width: 402px !important;
+}
+
+.element .container-60 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-22 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .background-13 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.element .class-3 {
+  height: 169px !important;
+  left: 201px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 237px !important;
+}
+
+.element .class-4 {
+  height: 169px !important;
+  left: 190px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 237px !important;
+}
+
+.element .class-5 {
+  height: 169px !important;
+  left: 236px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 237px !important;
+}
+
+.element .heading-margin-7 {
+  height: 48.39px;
+  position: relative;
+}
+
+.element .heading-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+}
+
+.element .container-61 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-23 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-62 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-63 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-64 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.element .component-10 {
+  height: 32px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.element .heading-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.79px;
+  position: relative;
+}
+
+.element .text-wrapper-24 {
+  color: #221d1d;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.33px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .users-maintain-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .users-maintain {
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .background-14 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-65 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.element .the-aave-protocol-is-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .the-aave-protocol-is {
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-66 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-67 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.element .AAVE-token-holders-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .AAVE-token-holders {
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .background-15 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-68 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.element .integrating-aave-s-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .integrating-aave-s {
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .section-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-69 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 72px;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .container-70 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-25 {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 39.7px;
+  font-weight: 500;
+  letter-spacing: -0.80px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .GHO-is-the-only-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .GHO-is-the-only {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.element .horizontal-divider-3 {
+  background: linear-gradient(
+    180deg,
+    rgb(32.64, 28.86, 28.93) 0%,
+    rgb(32.64, 28.86, 28.93) 33.33%,
+    rgba(0, 0, 0, 0) 33.33%,
+    rgba(0, 0, 0, 0) 66.66%,
+    rgb(32.64, 28.86, 28.93) 66.66%,
+    rgb(32.64, 28.86, 28.93) 100%
+  );
+  height: 2px;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 22px;
+  width: 103px;
+}
+
+.element .text-3 {
+  color: #221d1d;
+  font-family: var(--aave-com-FT-regola-neue-medium-16-font-family);
+  font-size: var(--aave-com-FT-regola-neue-medium-16-font-size);
+  font-style: var(--aave-com-FT-regola-neue-medium-16-font-style);
+  font-weight: var(--aave-com-FT-regola-neue-medium-16-font-weight);
+  letter-spacing: var(--aave-com-FT-regola-neue-medium-16-letter-spacing);
+  line-height: var(--aave-com-FT-regola-neue-medium-16-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-1-548 {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.element .container-71 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-16 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.element .component-12 {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  object-fit: cover !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.element .background-17 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  padding: 32px;
+}
+
+.element .container-72 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-73 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 42px;
+}
+
+.element .container-74 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  height: 21.59px;
+  padding: 0px 0px 1.59px;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-26 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #636161;
+  display: -webkit-box;
+  font-family: var(--aave-com-inter-regular-16-font-family);
+  font-size: var(--aave-com-inter-regular-16-font-size);
+  font-style: var(--aave-com-inter-regular-16-font-style);
+  font-weight: var(--aave-com-inter-regular-16-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-16-letter-spacing);
+  line-height: var(--aave-com-inter-regular-16-line-height);
+  margin-top: -1.80px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-1-517 {
+  height: 4px !important;
+  position: relative !important;
+  width: 4px !important;
+}
+
+.element .text-wrapper-27 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #8f8d8d;
+  display: -webkit-box;
+  font-family: var(--aave-com-inter-regular-16-font-family);
+  font-size: var(--aave-com-inter-regular-16-font-size);
+  font-style: var(--aave-com-inter-regular-16-font-style);
+  font-weight: var(--aave-com-inter-regular-16-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-16-letter-spacing);
+  line-height: var(--aave-com-inter-regular-16-line-height);
+  margin-top: -1.80px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-1-421 {
+  height: 167.32px !important;
+  margin-bottom: -0.82px !important;
+  position: relative !important;
+  width: 374px !important;
+}
+
+.element .component-1-607 {
+  height: 115.09px !important;
+  margin-bottom: -0.80px !important;
+  position: relative !important;
+  width: 262.63px !important;
+}
+
+.element .component-1-598 {
+  height: 131.1px !important;
+  margin-bottom: -0.81px !important;
+  position: relative !important;
+  width: 296.75px !important;
+}
+
+.element .background-18 {
+  align-items: flex-start;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+  padding: 32px;
+}
+
+.element .container-75 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-76 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 131px;
+}
+
+.element .container-77 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.66e-14px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-78 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 131px;
+}
+
+.element .component-1-508 {
+  height: 94.08px !important;
+  position: relative !important;
+  width: 296.75px !important;
+}
+
+.element .component-1-409 {
+  height: 108.16px !important;
+  margin-bottom: -0.81px !important;
+  position: relative !important;
+  width: 374px !important;
+}
+
+.element .component-1-579 {
+  height: 87.86px !important;
+  position: relative !important;
+  width: 262.63px !important;
+}
+
+.element .section-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-79 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .container-80 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-81 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-28 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-82 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-83 {
+  align-self: stretch;
+  position: relative;
+}
+
+.element .container-84 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  height: 262.81px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0.01px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-467 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 438px !important;
+  margin-bottom: -87.60px !important;
+  margin-top: -87.60px !important;
+  position: relative !important;
+}
+
+.element .container-85 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element .component-1-407 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 262.81px !important;
+  position: relative !important;
+}
+
+.element .link-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element .link {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-86 {
+  align-items: center;
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.element .component-13 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 91.45px !important;
+  position: relative !important;
+}
+
+.element .component-14 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 101.56px !important;
+  position: relative !important;
+}
+
+.element .container-87 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+}
+
+.element .link-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-88 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+}
+
+.element .link-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-561 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 91.46px !important;
+  position: relative !important;
+}
+
+.element .component-1-364 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 101.58px !important;
+  position: relative !important;
+}
+
+.element .container-89 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.element .link-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-571 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 91.44px !important;
+  position: relative !important;
+}
+
+.element .container-90 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-91 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-542 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 91.47px !important;
+  position: relative !important;
+}
+
+.element .container-92 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.element .link-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-93 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-94 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-95 {
+  align-self: stretch;
+  position: relative;
+}
+
+.element .container-96 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.element .link-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-15 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 140.01px !important;
+  position: relative !important;
+}
+
+.element .container-97 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 149px;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.element .link-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-16 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 140px !important;
+  position: relative !important;
+}
+
+.element .container-98 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 298px;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.element .link-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-99 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 149px;
+  width: 140px;
+}
+
+.element .link-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-100 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 149px;
+  position: absolute;
+  top: 149px;
+  width: 140px;
+}
+
+.element .link-14 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-101 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  left: 298px;
+  position: absolute;
+  top: 149px;
+  width: 140px;
+}
+
+.element .link-15 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-102 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .class-6 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 292.33px !important;
+  position: relative !important;
+}
+
+.element .class-7 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 322.67px !important;
+  position: relative !important;
+}
+
+.element .container-103 {
+  align-self: stretch;
+  position: relative;
+}
+
+.element .container-104 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element .link-16 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-17 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 140.02px !important;
+  position: relative !important;
+}
+
+.element .container-105 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+}
+
+.element .link-17 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-106 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+}
+
+.element .link-18 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-107 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.element .link-19 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-108 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-20 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-109 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-21 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-110 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.element .link-22 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-111 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-23 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-112 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.element .link-24 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .section-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-113 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .container-114 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-protocol-has-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-protocol-has {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-115 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-116 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  top: 80px;
+}
+
+.element .container-117 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 48px;
+  padding: 0px 48px 0px 0px;
+  position: relative;
+}
+
+.element .img-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-18 {
+  position: relative;
+}
+
+.element .container-118 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-19 {
+  position: relative;
+}
+
+.element .container-119 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-20 {
+  position: relative;
+}
+
+.element .container-120 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-21 {
+  position: relative;
+}
+
+.element .container-121 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-22 {
+  position: relative;
+}
+
+.element .container-122 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-23 {
+  position: relative;
+}
+
+.element .container-123 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 48px;
+  padding: 0px 48px 0px 0px;
+  position: relative;
+}
+
+.element .component-1-483-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .class-8 {
+  height: 20.12px !important;
+  position: relative !important;
+  width: 143.91px !important;
+}
+
+.element .class-9 {
+  height: 23.14px !important;
+  position: relative !important;
+  width: 165.48px !important;
+}
+
+.element .container-124 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-1-581 {
+  height: 30.78px !important;
+  position: relative !important;
+  width: 113.11px !important;
+}
+
+.element .component-1-510 {
+  height: 35.41px !important;
+  position: relative !important;
+  width: 130.07px !important;
+}
+
+.element .container-125 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-1-563 {
+  height: 15.39px !important;
+  position: relative !important;
+  width: 98.29px !important;
+}
+
+.element .component-1-499 {
+  height: 17.7px !important;
+  position: relative !important;
+  width: 113.04px !important;
+}
+
+.element .component-1-597-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .class-10 {
+  height: 21.32px !important;
+  position: relative !important;
+  width: 100.67px !important;
+}
+
+.element .class-11 {
+  height: 24.5px !important;
+  position: relative !important;
+  width: 115.77px !important;
+}
+
+.element .container-126 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-1-547 {
+  height: 37.89px !important;
+  position: relative !important;
+  width: 68.69px !important;
+}
+
+.element .component-1-484 {
+  height: 43.58px !important;
+  position: relative !important;
+  width: 79px !important;
+}
+
+.element .component-1-602-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .class-12 {
+  height: 24.86px !important;
+  position: relative !important;
+  width: 82.31px !important;
+}
+
+.element .class-13 {
+  height: 28.59px !important;
+  position: relative !important;
+  width: 94.66px !important;
+}
+
+.element .gradient {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 0%,
+    rgba(255, 255, 255, 0.74) 19%,
+    rgba(255, 255, 255, 0.54) 34%,
+    rgba(255, 255, 255, 0.38) 47%,
+    rgba(255, 255, 255, 0.28) 56.5%,
+    rgba(255, 255, 255, 0.19) 65%,
+    rgba(255, 255, 255, 0.12) 73%,
+    rgba(255, 255, 255, 0.08) 80.2%,
+    rgba(255, 255, 255, 0.04) 86.1%,
+    rgba(255, 255, 255, 0.02) 91%,
+    rgba(255, 255, 255, 0.01) 95.2%,
+    rgba(255, 255, 255, 0) 98.2%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.element .container-127 {
+  align-items: flex-start;
+  display: flex;
+  left: -876px;
+  position: relative;
+  top: 80px;
+  width: 1752px;
+}
+
+.element .container-128 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  padding: 0px 24px 0px 0px;
+  position: relative;
+}
+
+.element .container-129 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 10.72px 0px;
+  position: relative;
+}
+
+.element .component-24 {
+  height: 24.26px;
+  position: relative;
+  width: 173.53px;
+}
+
+.element .container-130 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 4.28px 0px 4.29px;
+  position: relative;
+}
+
+.element .component-25 {
+  height: 37.13px;
+  position: relative;
+  width: 136.41px;
+}
+
+.element .container-131 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.56px 0px 13.58px;
+  position: relative;
+}
+
+.element .component-26 {
+  height: 18.56px;
+  position: relative;
+  width: 118.54px;
+}
+
+.element .container-132 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 10px 0px;
+  position: relative;
+}
+
+.element .component-27 {
+  height: 25.7px;
+  position: relative;
+  width: 121.41px;
+}
+
+.element .container-133 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .component-28 {
+  height: 45.7px;
+  position: relative;
+  width: 82.84px;
+}
+
+.element .container-134 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 7.86px 0px;
+  position: relative;
+}
+
+.element .component-29 {
+  height: 29.98px;
+  position: relative;
+  width: 99.27px;
+}
+
+.element .container-135 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .section-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .background-19 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #00498a;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-435 {
+  height: 433px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 438px !important;
+}
+
+.element .heading-margin-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-15 {
+  height: 76.78px;
+  position: relative;
+  width: 342px;
+}
+
+.element .governed-by-you {
+  color: var(--aavecomwhite);
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 38px;
+  left: 40px;
+  letter-spacing: -1.20px;
+  line-height: 38.4px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.element .container-136 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  left: 61px;
+  position: absolute;
+  top: 38px;
+  width: 121px;
+}
+
+.element .container-137 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-width: 120.56px;
+  position: relative;
+}
+
+.element .text-wrapper-29 {
+  color: #a8e2ff;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .text-wrapper-30 {
+  color: var(--aavecomwhite);
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  height: 38px;
+  left: 187px;
+  letter-spacing: -1.20px;
+  line-height: 38.4px;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.element .container-138 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 520px;
+  padding: 0px 8.92px;
+  position: relative;
+  width: 100%;
+}
+
+.element .AAVE-token-holders-2 {
+  align-self: stretch;
+  color: #8fc9ff;
+  font-family: var(--aave-com-inter-medium-20-font-family);
+  font-size: var(--aave-com-inter-medium-20-font-size);
+  font-style: var(--aave-com-inter-medium-20-font-style);
+  font-weight: var(--aave-com-inter-medium-20-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-20-letter-spacing);
+  line-height: var(--aave-com-inter-medium-20-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.element .component-1-624 {
+  height: 436px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 895px !important;
+}
+
+.element .heading-margin-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .heading-16 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .text-wrapper-31 {
+  color: var(--aavecomwhite);
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.80px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-139 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  width: 156px;
+}
+
+.element .container-140 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-width: 155.61px;
+  position: relative;
+}
+
+.element .text-wrapper-32 {
+  color: #a8e2ff;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.80px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .text-4 {
+  color: #00498a;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.18px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-141 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 520px;
+  padding: 0px 35.86px 0px 35.84px;
+  position: relative;
+}
+
+.element .AAVE-token-holders-3 {
+  color: #8fc9ff;
+  font-family: var(--aave-com-inter-medium-20-font-family);
+  font-size: var(--aave-com-inter-medium-20-font-size);
+  font-style: var(--aave-com-inter-medium-20-font-style);
+  font-weight: var(--aave-com-inter-medium-20-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-20-letter-spacing);
+  line-height: var(--aave-com-inter-medium-20-line-height);
+  margin-left: -6.85px;
+  margin-right: -6.85px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.element .link-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 0px 0px;
+  position: relative;
+}
+
+.element .component-30 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 50px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  padding: 12px 18px 12px 20px;
+  position: relative;
+}
+
+.element .component-1-625 {
+  height: 480px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 986px !important;
+}
+
+.element .heading-margin-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.element .heading-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.element .section-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-142 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 72px;
+  max-width: 986px;
+  position: relative;
+}
+
+.element .container-143 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-144 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-33 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-145 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-21 {
+  align-self: stretch;
+  background-color: var(--aavecomwild-sand);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.element .component-31 {
+  height: 228.33px !important;
+  position: relative !important;
+  width: 438px !important;
+}
+
+.element .component-1-618 {
+  height: 233.27px !important;
+  position: relative !important;
+  width: 447.5px !important;
+}
+
+.element .component-1-622 {
+  height: 257px !important;
+  position: relative !important;
+  width: 493px !important;
+}
+
+.element .container-146 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.element .heading-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.69px;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-34 {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  line-height: 32.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .horizontal-divider-4 {
+  align-self: stretch;
+  background-color: #e6e6e4;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.element .peace-of-mind-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .peace-of-mind {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-32 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.element .background-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-23 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .security-is-a-top-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .security-is-a-top {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-33 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 0px 0px 8px;
+  position: relative;
+}
+
+.element .container-147 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .container-148 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .container-149 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .security-is-a-top-2 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-150 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .background-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.element .background-25 {
+  align-self: stretch;
+  background-color: var(--aavecomwild-sand);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.element .component-1-431 {
+  height: 225.61px !important;
+  position: relative !important;
+  width: 438px !important;
+}
+
+.element .class-14 {
+  height: 230.5px !important;
+  position: relative !important;
+  width: 447.5px !important;
+}
+
+.element .class-15 {
+  height: 253.94px !important;
+  position: relative !important;
+  width: 493px !important;
+}
+
+.element .container-151 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.element .container-152 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .the-aave-protocol-is-2 {
+  align-self: stretch;
+  color: #636161;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-34 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.element .separator {
+  background-color: #f1f1ef;
+  height: 1px;
+  position: relative;
+}
+
+.element .section-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 47.3px 20px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-153 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 986px;
+  position: relative;
+  width: 438px;
+}
+
+.element .container-154 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32.01px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.element .heading-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 39.09px;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-35 {
+  align-self: stretch;
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 31.9px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .container-155 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 31.5px;
+  height: 400px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-156 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.element .button-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #fcfcfb;
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 6px;
+  position: relative;
+  width: 100%;
+}
+
+.element .button-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 10px 8px 4px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-36 {
+  color: #221d1d;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.33px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-1-398 {
+  height: 52px !important;
+  position: relative !important;
+  width: 52px !important;
+}
+
+.element .rectangle-2 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 438px;
+}
+
+.element .horizontal-divider-5 {
+  background: linear-gradient(
+    180deg,
+    rgb(0, 138.48, 255) 0%,
+    rgb(0, 138.48, 255) 33.33%,
+    rgba(0, 0, 0, 0) 33.33%,
+    rgba(0, 0, 0, 0) 66.66%,
+    rgb(0, 138.48, 255) 66.66%,
+    rgb(0, 138.48, 255) 100%
+  );
+  height: 2px;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 22px;
+  width: 90px;
+}
+
+.element .text-5 {
+  color: #008aff;
+  font-family: var(--aave-com-FT-regola-neue-medium-16-font-family);
+  font-size: var(--aave-com-FT-regola-neue-medium-16-font-size);
+  font-style: var(--aave-com-FT-regola-neue-medium-16-font-style);
+  font-weight: var(--aave-com-FT-regola-neue-medium-16-font-weight);
+  letter-spacing: var(--aave-com-FT-regola-neue-medium-16-letter-spacing);
+  line-height: var(--aave-com-FT-regola-neue-medium-16-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .section-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 266px;
+  padding: 0px 20px 48px;
+  position: relative;
+  width: 456px;
+}
+
+.element .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--aavecomwild-sand);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 103.99px;
+  margin-bottom: -351.18px;
+  padding: 40px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-157 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-158 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 36px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-414 {
+  height: 16px !important;
+  position: relative !important;
+  width: 93.5px !important;
+}
+
+.element .aave-com-provides-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 433px;
+  position: relative;
+  width: 100%;
+}
+
+.element .aave-com-provides {
+  align-self: stretch;
+  color: #b6b6b6;
+  font-family: var(--aave-com-inter-regular-10-font-family);
+  font-size: var(--aave-com-inter-regular-10-font-size);
+  font-style: var(--aave-com-inter-regular-10-font-style);
+  font-weight: var(--aave-com-inter-regular-10-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-10-letter-spacing);
+  line-height: var(--aave-com-inter-regular-10-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -22.00px;
+  position: relative;
+  width: 390px;
+}
+
+.element .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.element .item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.99px;
+  min-width: 99.03px;
+  position: relative;
+}
+
+.element .container-159 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-37 {
+  color: #221d1d;
+  font-family: "FT Regola Neue-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.09px;
+  line-height: 14.7px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.8px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-35 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .div-7 {
+  color: #8f8d8d;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.09px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-36 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .text-wrapper-38 {
+  color: #8f8d8d;
+  flex: 1;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.09px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .component-38 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.99px;
+  min-width: 104.83px;
+  position: relative;
+}
+
+.element .container-160 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-39 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-40 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-41 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.99px;
+  min-width: 91.39px;
+  position: relative;
+}
+
+.element .container-161 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-43 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-44 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-45 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .container-162 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-489-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-489 {
+  height: 22px !important;
+  position: relative !important;
+  width: 17.59px !important;
+}
+
+.element .component-1-389-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-46 {
+  height: 22px !important;
+  position: relative !important;
+  width: 20.89px !important;
+}
+
+.element .component-1-554-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-47 {
+  height: 22px !important;
+  position: relative !important;
+  width: 19.8px !important;
+}
+
+.element .component-1-492-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-500-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-500 {
+  height: 22px !important;
+  position: relative !important;
+  width: 18px !important;
+}
+
+.element .container-163 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -399.17px;
+  margin-right: -22.00px;
+  margin-top: -0.01px;
+  padding: 0px 16px;
+  position: relative;
+  width: 438px;
+}
+
+.element .component-48 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 438px;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient-2 {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+  width: 406px;
+}
+
+.element .component-49 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 438px;
+  opacity: 0.5;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-50 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 438px;
+  opacity: 0.2;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-51 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 438px;
+  opacity: 0.1;
+  position: relative;
+  width: 100%;
+}
+
+.element .section-12 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 72px;
+  position: relative;
+}
+
+.element .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--aavecomwild-sand);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 104px;
+  padding: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-164 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.element .container-165 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 36px;
+  position: relative;
+}
+
+.element .aave-com-provides-2 {
+  color: #b6b6b6;
+  font-family: var(--aave-com-inter-regular-10-font-family);
+  font-size: var(--aave-com-inter-regular-10-font-size);
+  font-style: var(--aave-com-inter-regular-10-font-style);
+  font-weight: var(--aave-com-inter-regular-10-font-weight);
+  letter-spacing: var(--aave-com-inter-regular-10-letter-spacing);
+  line-height: var(--aave-com-inter-regular-10-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.element .list-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .list-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 72px;
+  position: relative;
+  width: 100%;
+}
+
+.element .item-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.element .container-166 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-52 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-53 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-54 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .text-wrapper-39 {
+  color: #8f8d8d;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.09px;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .component-55 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.element .container-167 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-56 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .text-wrapper-40 {
+  color: #8f8d8d;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.09px;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.element .item-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-57 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-58 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-59 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.element .container-168 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .item-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-60 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .item-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-61 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-62 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-388-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .link-25 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-491-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-391-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .component-1-564-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.element .container-169 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 14px;
+  position: relative;
+}
+
+.element .component-63 {
+  align-self: stretch;
+  height: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient-3 {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+}
+
+.element .component-64 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 1082px;
+  opacity: 0.5;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient-4 {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+}
+
+.element .component-65 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 1082px;
+  opacity: 0.2;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient-5 {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+}
+
+.element .component-66 {
+  align-self: stretch;
+  height: 12px;
+  max-width: 1082px;
+  opacity: 0.1;
+  position: relative;
+  width: 100%;
+}
+
+.element .overlay-gradient-6 {
+  background-color: #ffffff1a;
+  border-radius: 4px;
+  height: 4px;
+  position: relative;
+  top: 8px;
+}
+
+.element .header-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  top: 0;
+}
+
+.element .header-3 {
+  align-items: center;
+  background-color: var(--aavecomwhite);
+  box-shadow: 0px 1px 0px #0000000f;
+  display: flex;
+  flex: 0 0 auto;
+  max-width: 1082px;
+  position: relative;
+}
+
+.element .container-170 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.element .component-1-415-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.element .component-1-415 {
+  height: 16px !important;
+  position: relative !important;
+  width: 94px !important;
+}
+
+.element .text-6 {
+  color: var(--aavecomwhite);
+  font-family: var(--aave-com-inter-medium-14-font-family);
+  font-size: var(--aave-com-inter-medium-14-font-size);
+  font-style: var(--aave-com-inter-medium-14-font-style);
+  font-weight: var(--aave-com-inter-medium-14-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-14-letter-spacing);
+  line-height: var(--aave-com-inter-medium-14-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .open-app-wrapper {
+  align-items: flex-start;
+  background-color: #201c1c;
+  border-radius: 50px;
+  display: inline-flex;
+  flex-direction: column;
+  height: 33px;
+  left: 332px;
+  padding: 8.15px 16px 9.83px;
+  position: absolute;
+  top: 0;
+}
+
+.element .open-app {
+  color: var(--aavecomwhite);
+  display: block;
+  font-family: var(--aave-com-inter-medium-14-font-family);
+  font-size: var(--aave-com-inter-medium-14-font-size);
+  font-style: var(--aave-com-inter-medium-14-font-style);
+  font-weight: var(--aave-com-inter-medium-14-font-weight);
+  letter-spacing: var(--aave-com-inter-medium-14-letter-spacing);
+  line-height: var(--aave-com-inter-medium-14-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .container-171 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element .button-4 {
+  all: unset;
+  align-items: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.30px;
+  padding: 8.15px 16px 9.15px;
+  position: relative;
+}
+
+.element .text-wrapper-41 {
+  color: #221d1d;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.09px;
+  line-height: 14.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

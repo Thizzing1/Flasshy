@@ -1,0 +1,124 @@
+.connect-a-wallet {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.connect-a-wallet .div {
+  background-color: #ffffff;
+  height: 422px;
+  position: relative;
+  width: 630px;
+}
+
+.connect-a-wallet .border {
+  height: 422px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.connect-a-wallet .left {
+  height: 1px;
+  left: -7749px;
+  object-fit: cover;
+  position: absolute;
+  top: 25423px;
+  width: 422px;
+}
+
+.connect-a-wallet .head {
+  height: 34px;
+  left: 32px;
+  position: absolute;
+  top: 32px;
+  width: 464px;
+}
+
+.connect-a-wallet .text-wrapper {
+  color: #717a8c;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 8px;
+  width: 173px;
+}
+
+.connect-a-wallet .u-plus {
+  height: 34px !important;
+  left: 426px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 36px !important;
+}
+
+.connect-a-wallet .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 32px;
+  position: absolute;
+  top: 98px;
+  width: 462px;
+}
+
+.connect-a-wallet .div-2 {
+  background-color: #ffffff;
+  border: 0.2px solid;
+  border-color: #000000;
+  border-radius: 8px;
+  height: 56px;
+  position: relative;
+  width: 462px;
+}
+
+.connect-a-wallet .img {
+  height: 32px;
+  left: 24px;
+  position: absolute;
+  top: 12px;
+  width: 32px;
+}
+
+.connect-a-wallet .text-wrapper-2 {
+  color: #717a8c;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.connect-a-wallet .u-angle-down {
+  height: 24px;
+  left: 414px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.connect-a-wallet .text-wrapper-3 {
+  color: #717a8c;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
